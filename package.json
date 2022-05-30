@@ -1,0 +1,25 @@
+{
+    "name": "convertCsvToPDF-HTML",
+    "version": "1.0.0",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DionathanSehnem/convertCsvToPDF-HTML.git"
+    },
+    "keywords": [],
+    "author": "Dionathan Sehnem <dionathan2002@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DionathanSehnem/convertCsvToPDF-HTML/issues"
+    },
+    "homepage": "https://github.com/DionathanSehnem/convertCsvToPDF-HTML#readme",
+    "description": "",
+    "dependencies": {
+        "ejs": "^3.1.8",
+        "html-pdf": "^3.0.1"
+    }
+}
